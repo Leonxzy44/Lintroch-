@@ -1,4 +1,8 @@
-<p align="center"> Lintorch software </p>
+<p align="center"> 
+Lintorch software
+---
+
+ </p>
 
 <p align="center">
 
