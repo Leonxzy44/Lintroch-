@@ -1,6 +1,10 @@
 # Lintorch software
 
-![WhatsApp Slika 2025-10-14 u 17 43 09_f1a49573](https://github.com/user-attachments/assets/34751e51-6b95-4d3a-aba3-d0412cdfe669)
+<p align="center">
+
+<img width="782" height="216" alt="image" src="https://github.com/user-attachments/assets/75cba9e3-c694-4cb5-8cc8-1a1a9568b1f5" />
+
+</p>
 
 About: Software made in python. Apps stacked all in one software. It's still under development so get ready for updates. 
 
