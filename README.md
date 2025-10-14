@@ -6,7 +6,7 @@ About: Software made in python. Apps stacked all in one software. It's still und
 
 ---
 
-About Lintorch Gold: You can request creator (me) to make special version of Lintorch for you. That includes: 
+About Lintorch Gold: You can request creator (me) to make special version of Lintorch for you. Request me with mail. Lintorch Gold includes: 
 
 📦 - Game packets and assets.
 
@@ -23,7 +23,13 @@ Released offically: 25.6.2025.
 
 Released on GitHub: 28.7.2025.
 
-Credits: @Leonxzy44
+Credits: Leonxzy44 (me).
+
+Mails: 
+
+Outlook: leon.hodzic@outlook.com
+
+Gmail: leonhodzic44@gmail.com
 
 
 
