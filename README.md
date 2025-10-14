@@ -21,5 +21,9 @@ About Lintorch Gold: You can request creator (me) to make special version of Lin
 
 Released offically: 25.6.2025.
 
+Released on GitHub: 28.7.2025.
+
+Credits: @Leonxzy44
+
 
 
